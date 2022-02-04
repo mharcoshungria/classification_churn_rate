@@ -19,7 +19,7 @@ Esse é um problema de classificação no qual você classifica se um cliente ir
 
 ### 1.2. Descrição do dados
 
-No arquivo [Churn_Modelling.csv] (https://github.com/mharcoshungria/classification_churn_rate/blob/main/churn_modelling.csv) você encontrará:
+No arquivo [Churn_Modelling.csv](https://github.com/mharcoshungria/classification_churn_rate/blob/main/churn_modelling.csv) você encontrará:
 
 - **RowNumber**: id do registro/linha.
 - **CustomerId**: identificador único do cliente.
