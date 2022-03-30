@@ -2,6 +2,8 @@
 
 # Projeto - Classificação
 
+Este repositório é parte das tarefas da Formação Intensiva de Data Science da [Awari](https://awari.com.br/). 
+
 ## 1. Considerações iniciais
 
 Neste notebook iremos praticar a construção de um modelo de Machine Learning. Na atividade, iremos utilizar um algoritmo para realizar um processo de classificação. 
